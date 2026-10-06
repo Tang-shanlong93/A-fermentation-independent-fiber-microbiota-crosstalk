@@ -1,0 +1,35 @@
+Fig.4B														
+TLR2/4 ko mice	RAP	RAP	RAP	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP		
+RAP+ cell of FAE	4.75	4.92	5.00	4.85	5.17	5.30	4.43	4.06	5.72	5.51	4.38	4.37		
+														
+														
+Fig.4C														
+TLR4 ko mice	RAP	RAP	RAP	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP		
+RAP+ cell of FAE	4.24	3.91	7.39	2.90	5.35	4.92	12.50	25.00	7.10	4.89	14.30	20.30		
+														
+														
+Fig.4D														
+TLR2 ko mice	RAP	RAP	RAP	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP			
+RAP+ cell of FAE	4.70	7.31	2.24	5.45	2.30	6.23	6.82	5.55	1.76	4.71	8.04			
+														
+														
+Fig.4F														
+TLR2/4 ko mice	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP							
+RAP content (ug/mg protein)	3.479	2.191	2.638	2.043	2.361	2.530	2.348							
+														
+														
+Fig.4G														
+TLR4 ko mice	RAP	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP						
+RAP content (ug/mg protein)	3.462	3.152	2.985	3.132	4.678	5.348	4.585	4.355						
+														
+														
+Fig.4H														
+TLR2 ko mice	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP							
+RAP content (ug/mg protein)	3.689	7.672	6.643	6.129	6.390	2.578	5.109							
+														
+														
+														
+														
+														
+														
+														

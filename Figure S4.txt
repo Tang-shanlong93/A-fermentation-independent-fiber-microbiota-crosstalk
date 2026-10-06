@@ -1,0 +1,28 @@
+Fig.S4B													
+TLR2/4 ko mice	CON	CON	CON	CON	CON	CON	pAKK	pAKK	pAKK	pAKK	pAKK	pAKK	
+GP2+ M cell of IEC	0.91	0.85	0.3	1.06	0.59	0.37	0.69	1.16	0.46	1.24	0.45	0.51	
+													
+													
+Fig.S4C													
+TLR4 ko mice	CON	CON	CON	CON	CON	CON	pAKK	pAKK	pAKK	pAKK	pAKK	pAKK	
+GP2+ M cell of IEC	0.32	0.22	0.79	0.60	0.60	0.20	0.74	0.65	0.94	0.77	1.10	1.17	
+													
+													
+Fig.S4D													
+TLR2 ko mice	CON	CON	CON	CON	CON	CON	pAKK	pAKK	pAKK	pAKK	pAKK	pAKK	
+GP2+ M cell of IEC	0.80	0.33	0.97	0.95	0.69	0.40	0.52	0.66	0.64	0.44	0.54	0.56	
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													

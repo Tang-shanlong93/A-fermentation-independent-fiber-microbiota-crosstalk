@@ -1,0 +1,52 @@
+Fig.5B													
+TLR2/4 ko mice	RAP	RAP	RAP	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	
+GP+ M cell of FAE	3.31	2.21	2.91	2.77	1.69	2.43	2.56	4.81	1.9	2.38	3.77	2.9	
+													
+													
+Fig.5C													
+TLR2/4 ko mice	RAP	RAP	RAP	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	
+RAP+ cell of M cell	41.8	36.7	14.4	38.3	37	26.5	39.3	28	41.6	33.8	28.4	30.4	
+													
+													
+Fig.5D													
+TLR4 ko mice	RAP	RAP	RAP	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	
+GP+ M cell of FAE	2.31	1.38	1.13	2.84	2.94	1.31	3.53	6.52	2.52	1.96	3.99	5.45	
+													
+													
+Fig.5E													
+TLR4 ko mice	RAP	RAP	RAP	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	
+RAP+ cell of M cell	24.7	30.9	50.1	23.8	27.2	64.4	58.7	38.3	35	37.6	40.4	46.4	
+													
+													
+Fig.5F													
+TLR2 ko mice	RAP	RAP	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP		
+GP+ M cell of FAE	1.86	3.02	2.51	2.22	2.52	2.65	4.3	1.25	2.55	2.48	3.32		
+													
+													
+Fig.5G													
+TLR2 ko mice	RAP	RAP	RAP	RAP	RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP	pAKK+RAP		
+RAP+ cell of M cell	64.7	47.6	60.5	56.6	66.2	42.3	66.9	50.4	46	65.8	44.9		
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
